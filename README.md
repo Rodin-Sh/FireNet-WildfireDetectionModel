@@ -1,6 +1,6 @@
 # FireNet
 
-The solution utilizes a convolutional neural network and stochastic gradient descent. It achieves a final validation accuracy of 91.18% and a final AUC score of 94.76%.
+The solution utilizes a convolutional neural network and stochastic gradient descent. It achieves a final validation accuracy of 83.82% and a final AUC score of 86.11%.
 
 The dataset used in this project was [Kaggle Wildfire Detection Image Data](https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data).
 
